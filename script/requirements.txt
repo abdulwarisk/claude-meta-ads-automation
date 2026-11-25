@@ -1,0 +1,3 @@
+# Official Meta Business SDK. If pip can't find this exact version, install the latest: pip install -U facebook-business
+facebook-business==25.0.0
+python-dotenv==1.0.1

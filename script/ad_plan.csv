@@ -1,0 +1,5 @@
+campaign_name,country,cities,age_min,age_max,interest_keyword,daily_budget_minor,headline,primary_text,description,cta,image_file,link
+Cold Brew Launch | Families,IN,Kochi;Thrissur,25,45,Cooking,50000,A cool sip of home,Our new cold brew is here. Smooth and easy for the whole family.,Launch week,LEARN_MORE,img1.jpg,https://your-site.com/cold-brew
+Cold Brew Launch | Students,IN,Kozhikode,18,24,Coffee,50000,Beat the afternoon slump,Exams? Long classes? A cold brew that keeps up with you.,Grab yours today,SHOP_NOW,img2.jpg,https://your-site.com/cold-brew
+Cold Brew Launch | Office,IN,Kochi,25,40,Coffee,50000,Your 3 PM refresher,Skip the vending machine. Try our ready-to-drink cold brew.,Order online,SHOP_NOW,img3.jpg,https://your-site.com/cold-brew
+Cold Brew Launch | Fitness,IN,,20,35,Physical fitness,50000,Light. Cool. Ready.,A smooth cold brew after your morning run.,See the range,LEARN_MORE,img4.jpg,https://your-site.com/cold-brew
